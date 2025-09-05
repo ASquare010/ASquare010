@@ -1,29 +1,43 @@
-<h1 align="center">Hi 👋, I'm Awais</h1>
-<h3 align="center">💻 ML/AI Engineer | ⚡ Automation | 🛠️ Full-Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Awais Amin</h1>
+<h3 align="center">💻 Senior ML/AI Engineer | ⚡ DevOps & MLOps | 🛠️ Backend & Cloud Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **AI Agents & Automation**
-- 🌱 I’m exploring **Generative AI, RAG Pipelines & Multi-Agent Systems**
-- 💬 Ask me about **Machine Learning, Django, React, Flask, and AI Tools**
-- ⚡ Fun fact: *I love turning coffee ☕ into code 💻*
+- 🔭 Currently working on **AI Agents, RAG Pipelines, and Multi-Agent Systems**
+- 🌱 Expanding expertise in **DevOps, CI/CD, Kafka, Data Engineering & Cloud (AWS/Azure/GCP)**
+- 💬 Ask me about **Machine Learning, LLMs, Generative AI, Flask/Django, and MLOps**
+- 🛠️ Hands-on with **ETL Pipelines, DataFix, Streaming Data with Kafka, and Distributed Systems**
+- ⚡ Fun fact: *I automate everything — from deployments to my morning coffee ☕ pipelines!*
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/awais-amin-550693210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:awaisamin010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ASquare010" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,django,flask,nodejs,mysql,postgres,git,github,docker,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,django,flask,fastapi,html,css,git,github,linux,docker,kubernetes,aws,azure,gcp,postgres,mysql,mongodb,pytorch,tensorflow,opencv" />
 </p>
+
+**Specialties:**
+- 🧠 **ML/AI**: LLMs, NLP, Computer Vision, GenAI, Diffusion Models, RAG  
+- 🛠 **MLOps/DevOps**: Docker, Kubernetes, MLflow, Airflow, CI/CD, GitHub Actions  
+- ☁️ **Cloud**: AWS (SageMaker, Bedrock, Lambda, EC2, S3), GCP, Azure ML  
+- ⚡ **Data Engineering**: Kafka, DataFix, DBT, Databricks, ETL Pipelines  
+- 📊 **Backend**: Django, Flask, FastAPI, Node.js  
 
 ---
 
@@ -40,15 +54,17 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASquare010&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ASquare010&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🚀 [**AI Chatbot**](https://github.com/ASquare010/your-chatbot-repo) – An LLM-powered conversational assistant  
-- 🔎 [**RAG Pipeline**](https://github.com/ASquare010/your-rag-repo) – Retrieval Augmented Generation for better answers  
-- 🖼️ [**Image Captioning**](https://github.com/ASquare010/image-captioning) – AI that describes images  
+- 🚀 [**AI Chatbot**](https://github.com/ASquare010/your-chatbot-repo) – LLM-powered conversational assistant  
+- 🔎 [**RAG Pipeline**](https://github.com/ASquare010/your-rag-repo) – Retrieval Augmented Generation for smarter search  
+- 🖼️ [**Image Captioning**](https://github.com/ASquare010/image-captioning) – Computer Vision & BLIP-powered image descriptions  
+- ⚡ [**Data ETL Pipeline**](https://github.com/ASquare010/etl-pipeline) – Kafka + DBT + Data Warehouse integration  
+- ☁️ [**MLOps Workflow**](https://github.com/ASquare010/mlops-workflow) – CI/CD with Docker, Kubernetes, MLflow  
 
 ---
 
