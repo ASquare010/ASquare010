@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Awais Amin</h1>
+<h1 align="center">Hi 👋, I'm A_Square</h1>
 <h3 align="center">💻 Senior ML/AI Engineer | ⚡ DevOps & MLOps | 🛠️ Backend & Cloud Enthusiast</h3>
 
 ---
@@ -14,12 +14,6 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/awais-amin-550693210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:awaisamin010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/ASquare010" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
