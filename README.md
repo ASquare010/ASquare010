@@ -46,13 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASquare010&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 📂 Featured Projects
 - 🚀 [**AI Chatbot**](https://github.com/ASquare010/your-chatbot-repo) – LLM-powered conversational assistant  
 - 🔎 [**RAG Pipeline**](https://github.com/ASquare010/your-rag-repo) – Retrieval Augmented Generation for smarter search  
